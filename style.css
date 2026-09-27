@@ -172,3 +172,17 @@ nav {
 html {
     scroll-behavior: smooth;
 }
+.signin-btn {
+    background-color: #6c5ce7;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: 0.3s;
+}
+
+.signin-btn:hover {
+    background-color: #5849c9;
+    transform: translateY(-2px);
+}
